@@ -1,0 +1,128 @@
+/**{outline:1px solid rgba(255,0,0,0.3);}*/
+ h4, h5,  {
+  font-family:Helvetica; }
+
+.oswald {
+  font-family: 'Oswald'; }
+
+.inline-block {
+  display: inline-block; }
+}
+.uno h1 {
+  font-size: 65px;
+  font-weight:bolder; }
+
+.uno h4 {
+  color: #768596; }
+
+.titulo-blog img {
+  margin-left: 15px; }
+
+.dos {
+  margin-top: 30px; }
+
+.dos.row {
+  margin-top: 20px; }
+
+.tres {
+  border: 1px solid #E4E7EA;
+  min-height: 195px;
+  position: relative; }
+  .tres p {
+    margin-top: 15px;
+    font-size: 10px; }
+  .tres h4 {
+    font-weight: 700; }
+
+.cuadro-mix {
+  position: absolute;
+  right: 5px; }
+
+.cuatro {
+  min-height: 90px;
+  background-color: #E4E7EA;
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  width: 95%; }
+
+.cinco {
+  position: absolute;
+  z-index: 100;
+  border: 3px solid #fff;
+  top: 13px;
+  left: 10px; }
+
+.seis p, .seis h5 {
+  margin-left: 80px;
+  text-align: left; }
+
+.seis p {
+  font-family: 'Oswald';
+  font-weight: 600;
+  font-size: 12px; }
+
+.seis h5 {
+  font-weight: 700;
+  color: #768596;
+  font-size: 15px; }
+
+.dos button {
+  background-color: #BA1414;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px; }
+.tabla-columnista ul {
+  background-color: #BA1414;
+  min-height: 45px;
+  padding: 15px 40px;
+  margin-top: 20px; }
+  .tabla-columnista ul li {
+    padding-left: 15px;
+    padding-right: 15px; }
+  .tabla-columnista ul li a {
+    border-radius: 8px;
+    color: #fff;
+    padding: 8px; }
+  .tabla-columnista ul li:first-child a {
+    background-color: #941010; }
+
+.cuadrado-mix-columnista {
+  min-height: 90px;
+  background-color: #E4E7EA;
+  width: 98%;
+  padding: 10px; }
+
+.imagen-mix-columnista {
+  border: 3px solid #fff;
+  top: 13px;
+  left: 10px; }
+
+.caja-tabla-columnista {
+  margin-bottom: 20px; }
+
+.caja-tabla-columnista .col-md-3 {
+  padding-left: 5px !important;
+  padding-right: 5px !important; }
+
+.texto-mix-columnista p, .texto-mix-columnista h5 {
+  margin-left: 80px;
+  text-align: left; }
+
+.texto-mix-columnista p {
+  font-family: 'Oswald';
+  font-weight: 600;
+  font-size: 10px; }
+
+.texto-mix-columnista h5 {
+  font-weight: 700;
+  color: #768596;
+  font-size: 12px; }
+
+.caja-tabla-columnista .row {
+  margin-top: 8px; }
+
+
